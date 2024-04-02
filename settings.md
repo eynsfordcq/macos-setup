@@ -20,4 +20,16 @@ echo '{
 }' > $HOME/Library/KeyBindings/DefaultKeyBinding.dict
 ```
 
+## System Settings
 
+### Dock Appear Delay
+
+This settings changes the delay of the dock if you set it to auto-hide
+
+```
+# instant
+defaults write com.apple.dock autohide-delay -float 0; killall Dock
+
+# revert to default
+defaults delete com.apple.dock autohide-delay; killall Dock
+```
