@@ -20,7 +20,15 @@ This add alt tab ability (like windows) to mac.
 All-in-one file compressor
 [github/Keka](https://github.com/aonez/Keka)
 
-### Maccy
+### Raycast
 
-Clipboard Manager
-[github/Maccy](https://github.com/p0deje/Maccy)
+Spotlight Replacement
+[Raycast](https://www.raycast.com/)
+
+
+## Other Tools 
+
+- [Docker](https://www.docker.com/)
+- [Hoppscotch](https://hoppscotch.com/)
+- [DBeaver](https://dbeaver.io/)
+- [Obsidian](https://obsidian.md/)

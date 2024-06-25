@@ -16,8 +16,6 @@ ls on steroid:
 [github/eza](https://github.com/eza-community/eza)
 
 
-### Open Zed from Terminal 
-Add the following line to .zshrc
-```
-alias zed="open -a /Applications/Zed.app -n"
-```
+### Oh My Zsh
+fancy terminal:
+[github/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/)
